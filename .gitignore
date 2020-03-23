@@ -29,3 +29,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# To prevent confilct between git and spring while using guard
+spring/
