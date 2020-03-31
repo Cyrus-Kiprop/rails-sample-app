@@ -1,41 +1,67 @@
-# Ruby on Rails Tutorial sample application
+# Introduction to rails
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](https://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+> This project involves getting your feet wet on the ruby on rails. The learner should familiarize him/herself with rails testing, routes, models and basic rails commands.
 
-## License
+- [live_version](https://cryptic-sierra-35464.herokuapp.com/microposts)
 
-All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
 
-## Getting started
+## Built With
 
-To get started with the app, clone the repo and then install the needed gems:
+- Ruby,
+- Ruby on rails
 
-```
-$ bundle install --without production
-```
 
-Next, migrate the database:
 
-```
-$ rails db:migrate
-```
+## Getting Started
 
-Finally, run the test suite to verify that everything is working correctly:
+**Clone this repo to get a local copy of the  project locally.**
 
-```
-$ rails test
-```
 
-If the test suite passes, you'll be ready to run the app in a local server:
 
-```
-$ rails server
-```
+### Prerequisites
+- Ensure that you have ruby installed -- check out the official documention
+- Text Editor: Visual Studio or sublime text recommended
+- Rubocop for linting
 
-For more information, see the
-[*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book). ...
+
+### Setup
+- cd project folder
+
+### Install
+- Run bundle install to install all the missing project dependencies.
+- gem install to install rubocop for linting purposes
+
+### Usage
+- Run 'rails server'.
+- Navigate to your browser on 'localhost:3000'.
+- The project should be up and running.
+
+
+
+
+## Authors
+
+👤 **Cyrus Kiprop**
+
+- Github: [Cyrus-Kiprop](https://github.com/Cyrus-Kiprop)
+- Twitter: [@kipropJS](https://twitter.com/kipropJS)
+- Linkedin: [Cyrus Kiprop](https://www.linkedin.com/in/cyrus-kiprop-ba7320120/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Cyrus-Kiprop/enumerables/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- Odin projects on Rails
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
