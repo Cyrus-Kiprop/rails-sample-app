@@ -52,6 +52,7 @@ group :development do
   gem 'rubocop'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
+  gem 'bcrypt', '~> 3.1', '>= 3.1.12'
 end
 
 group :test do
@@ -69,6 +70,7 @@ end
 
 group :production do
   gem 'pg'
+  gem 'bcrypt', '~> 3.1', '>= 3.1.12'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
