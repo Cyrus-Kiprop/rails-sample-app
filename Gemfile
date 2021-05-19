@@ -9,7 +9,7 @@ gem 'rails', '~> 5.2.4', '>= 5.2.4.2'
 # handle boostrap less files into sass
 gem 'bootstrap-sass', '~> 3.4.1'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
